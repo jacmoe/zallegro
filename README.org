@@ -1,0 +1,2 @@
+* ZAllegro
+Zig wrapper for Allegro game library
