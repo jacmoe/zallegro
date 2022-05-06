@@ -1,0 +1,6 @@
+id: xh9il76787g6974umkqum24v1r4aomix03mz5nu0ckdeu8ce
+name: zallegro
+main: src/zallegro.zig
+license: MIT
+description: Zig wrapper for Allegro game library
+dependencies:
